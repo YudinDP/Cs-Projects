@@ -19,5 +19,16 @@
 ![image](https://github.com/YudinDP/Cs-Projects/assets/146605173/516abe4a-04fe-4bb0-9303-d607acb8c629)<br>
 ![image](https://github.com/YudinDP/Cs-Projects/assets/146605173/4c537bb5-de60-460e-a25f-3b1679062268)<br>
 ![image](https://github.com/YudinDP/Cs-Projects/assets/146605173/e204bdca-f951-434a-ac36-af00a7b3568a)
+<br><br>
+<h3><b>InvestCalculator_App</b></h3>
+Оконный инвестиционный калькулятор / калькулятор сложных процентов.<br>
+Позволяет ввести начальную сумму, процентную ставку, срок инвестиций, а также объем и периодичность реинвестиций.<br>
+Приложение выводит полученные результаты инвестиций, а также их визуальную интерпретацию на графике.<br>
+![image](https://github.com/YudinDP/Cs-Projects/assets/146605173/3b71f4e7-69ed-4dd9-a16f-49a42c08435d)<br>
+![image](https://github.com/YudinDP/Cs-Projects/assets/146605173/d4c1d283-48e3-4136-8846-abf7aa169289)<br>
+![image](https://github.com/YudinDP/Cs-Projects/assets/146605173/b5ae322d-352f-4c7f-ab61-63cbe877677d)<br>
+
+
+
 
 

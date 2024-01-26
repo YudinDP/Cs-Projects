@@ -1,0 +1,11 @@
+C:\Users\Danya\source\repos\InvestCalculator_App\InvestCalculator_App\bin\Debug\InvestCalculator_App.exe.config
+C:\Users\Danya\source\repos\InvestCalculator_App\InvestCalculator_App\bin\Debug\InvestCalculator_App.exe
+C:\Users\Danya\source\repos\InvestCalculator_App\InvestCalculator_App\bin\Debug\InvestCalculator_App.pdb
+C:\Users\Danya\source\repos\InvestCalculator_App\InvestCalculator_App\obj\Debug\InvestCalculator_App.csproj.AssemblyReference.cache
+C:\Users\Danya\source\repos\InvestCalculator_App\InvestCalculator_App\obj\Debug\InvestCalculator_App.Form1.resources
+C:\Users\Danya\source\repos\InvestCalculator_App\InvestCalculator_App\obj\Debug\InvestCalculator_App.Properties.Resources.resources
+C:\Users\Danya\source\repos\InvestCalculator_App\InvestCalculator_App\obj\Debug\InvestCalculator_App.csproj.GenerateResource.cache
+C:\Users\Danya\source\repos\InvestCalculator_App\InvestCalculator_App\obj\Debug\InvestCalculator_App.csproj.CoreCompileInputs.cache
+C:\Users\Danya\source\repos\InvestCalculator_App\InvestCalculator_App\obj\Debug\InvestCalculator_App.exe
+C:\Users\Danya\source\repos\InvestCalculator_App\InvestCalculator_App\obj\Debug\InvestCalculator_App.pdb
+C:\Users\Danya\source\repos\InvestCalculator_App\InvestCalculator_App\obj\Debug\InvestCalculator_App.Form2.resources

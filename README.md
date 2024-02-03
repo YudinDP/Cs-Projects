@@ -27,6 +27,14 @@
 ![image](https://github.com/YudinDP/Cs-Projects/assets/146605173/3b71f4e7-69ed-4dd9-a16f-49a42c08435d)<br>
 ![image](https://github.com/YudinDP/Cs-Projects/assets/146605173/d4c1d283-48e3-4136-8846-abf7aa169289)<br>
 ![image](https://github.com/YudinDP/Cs-Projects/assets/146605173/b5ae322d-352f-4c7f-ab61-63cbe877677d)<br>
+<br><br>
+<h3><b>StudyTasks</b</h3>
+Оконное приложение - электронный дневник, позволяет заполнять расписание и задания по предметам.<br>
+При первичном заполнении после сохранения 2-й страницы доступно автозаполнение расписания на 20 недель.<br>
+![image](https://github.com/YudinDP/Cs-Projects/assets/146605173/d317098c-83a1-4081-a9ee-7b38113c354a)<br>
+![image](https://github.com/YudinDP/Cs-Projects/assets/146605173/b3537afd-6c3b-4ba4-85a1-772cd573609f)<br>
+
+
 
 
 
